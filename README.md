@@ -96,7 +96,7 @@ assets/screenshot.png
 
 ## 🌐 Live Demo
 
-(Add GitHub Pages link after deployment)
+https://fazal305.github.io/HexSoftwares_WebMusicPlayer/
 
 ---
 
