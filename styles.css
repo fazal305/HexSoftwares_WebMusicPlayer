@@ -19,7 +19,7 @@
 body {
   background: var(--bg);
   color: var(--text);
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: 'Unbounded', sans-serif;
   min-height: 100vh;
 }
 
